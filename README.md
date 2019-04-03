@@ -9,3 +9,15 @@
 <li><code> ./portscan.sh </code></li>
 </ol>
 <img src="https://raw.githubusercontent.com/oandersonbsilva/PortScan/master/image.jpg">
+
+# :exclamation: Requisitos
+
+<ul>
+<li>
+<p>Um sistema operacional linux.🐧 </p>
+</li>
+<li>
+<p> nmap
+</p>netcat 
+</li>
+</ul>
