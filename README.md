@@ -14,12 +14,6 @@
 
 # :exclamation: Requisitos
 
-<ul>
-<li>
 <p>Um sistema operacional linux.🐧 </p>
-</li>
-<li>
-<p> nmap
-</p>netcat 
-</li>
-</ul>
+ [![Dependency](https://img.shields.io/badge/Dependency-Nmap-lightgrey.svg)](https://nmap.org/) 
+
