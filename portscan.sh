@@ -46,7 +46,7 @@ esac
 echo -e "$white"
 function portas () {
    echo -n -e $BlueF'  \t Port@SCAN:\033[0m >> '; tput sgr0
-   echo -e "\tDigite o numero do ip:\n"
+   echo -e "\tDigite o ip:\n"
    read portas
    echo `nmap -v $portas`
    print
@@ -63,7 +63,7 @@ function Sniffar () {
    echo -n -e $BlueF'  \t Port@SCAN:\033[0m >> '; tput sgr0
    echo -e "\tDigite o ip :\n "
    read Sniffar
-   echo -e "\tDigie a porta:\n"
+   echo -e "\tDigite a porta:\n"
    read porta
    echo `netcat -vv -l $Sniffar -p $porta`
 }
