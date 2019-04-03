@@ -15,4 +15,5 @@
 # :exclamation: Requisitos
 
 <p>Um sistema operacional linux.🐧 </p>
+
  [![Dependency](https://img.shields.io/badge/Dependency-Nmap-lightgrey.svg)
