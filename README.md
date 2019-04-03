@@ -1,5 +1,10 @@
 # PortScan
-     ___  ____  ___  ______  ____________   _  __
-    / _ \/ __ \/ _ \/_  __/ / __/ ___/ _ | / |/ /
-   / ___/ /_/ / , _/ / /   _\ \/ /__/ __ |/    /
-  /_/   \____/_/|_| /_/   /___/\___/_/ |_/_/|_/
+    
+# Instalação
+
+<ol>
+<li><code>git clone https://github.com/oandersonbsilva/PortScan.git</code></li>
+<li><code>cd PortScan </code></li>
+<li><code>chmod a+x portscan.sh</code></li>
+<li><code> ./portscan.sh </code></li>
+</ol>
