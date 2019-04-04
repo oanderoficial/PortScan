@@ -40,7 +40,7 @@ case $menu2 in
   3) Sniffar;;
   4) sites;;
   5) sair;;
-  *) echo -e $red'opicão invalida!'&&sleep 2&&menu;;
+  *) echo -e $red'opicão invalida, tente novamente!'&&sleep 2&&menu;;
 esac
 }
 echo -e "$white"
